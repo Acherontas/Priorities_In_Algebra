@@ -2,6 +2,7 @@
 how the +-*/ interact
 
 assuming the action of 2785+2785-2785*2785/2785 and the order of them 
+
 acherontas@raspberrypi:~/codeblocks/priorities_in_actions/bin/Debug $ ./priorities_in_actions 2785 12
 
 Enter a number
